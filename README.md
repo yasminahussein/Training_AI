@@ -3,4 +3,4 @@
 
 Project 1 :Instagram Scrapper
 Data link : https://drive.google.com/drive/folders/1Em_lMyiLclTRExgHPyzOffpPUVw2EyjW?usp=sharing
-Pretrained Model Link :
+Pretrained Model Link : https://drive.google.com/drive/folders/1Em_lMyiLclTRExgHPyzOffpPUVw2EyjW?usp=sharing
